@@ -2,6 +2,8 @@
 
 竖屏单指物理解谜：水铃每走一步荡开一圈波，用波前把花瓣推回湾心。
 
+[在线试玩](https://mint041017-tech.github.io/knockwater/) · [v1.0.0 Release](https://github.com/mint041017-tech/knockwater/releases/tag/v1.0.0)
+
 ## 当前状态
 
 - Flutter 3.47 / Dart 3.13，7 章 78 关（8 / 12 / 12 / 12 / 12 / 16 / 6）。
